@@ -1,4 +1,4 @@
-Pepper Face Characteristics APIのサンプル
+Pepper Face Characteristicsサンプル
 ===================================
 
 Pepperの顔の特徴解析APIの利用例です。
